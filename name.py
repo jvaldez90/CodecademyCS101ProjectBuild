@@ -1,4 +1,5 @@
 # name.py
+# Codecademy.com CS101 Project Build
 # Project: Anagram Word Generator
 # Written by Joy Valdez
 # Date Created: April 27, 2021
